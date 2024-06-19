@@ -2,7 +2,7 @@ version: '3.4'
 
 services:
   samba:
-    image: dperson/samba
+    image: "ghcr.io/depau/docker-samba:main"
     environment:
       TZ: 'EST5EDT'
     networks:
