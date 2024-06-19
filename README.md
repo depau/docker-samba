@@ -3,7 +3,7 @@
 # Updated version of `dperson/samba`
 
 The original maintainer seems to have abandonded the project. You can obtain an up-to-date,
-drop-in replacement using the image `docker pull ghcr.io/depau/docker-samba:main`
+drop-in replacement using the image `ghcr.io/depau/docker-samba:main`
 
 # Samba
 
